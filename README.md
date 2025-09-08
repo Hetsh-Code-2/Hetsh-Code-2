@@ -27,4 +27,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hetsh-Code-2&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=000000)
 
 
+<!-- Scanner for thanks -->
+<h3> 🔗 Scan this: </h3>
+<p align="center">
+  &nbsp; <img src="./qrCode.png" width="250px"></img> <img src="./qrCode2.png" width="250px"></img>
+</p>
+
 ⭐️ From [Hetsh-Code-2](https://github.com/Hetsh-Code-2)
