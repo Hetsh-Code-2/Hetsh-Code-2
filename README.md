@@ -27,7 +27,7 @@
 
 <!-- GitHub Stats -->
 ## Top Languages
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hetsh-Code-2&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=000000")
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hetsh-Code-2&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=000000)
 
 
 <!-- Scanner for thanks -->
