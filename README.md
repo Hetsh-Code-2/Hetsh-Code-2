@@ -34,6 +34,7 @@
 <h3> 🔗 Scan this: </h3>
 <p align="center">
   &nbsp; <img src="./qrCode.png" width="250px"></img> <img src="./qrCode2.png" width="250px"></img>
+  &nbsp; <a src="https://m.youtube.com/@Hetsh-Code"></a>
 </p>
 
 
